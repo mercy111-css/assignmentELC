@@ -1,0 +1,114 @@
+<!doctype html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>homepage</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" media="(max-width:768px)" href="style-small.css">
+<link rel="stylesheet" media="(min-width:770px)" href="style-large.css">
+<link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css' integrity='sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ'
+ crossorigin='anonymous'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+<div class="screen">
+<div class="container">
+<!---top menu bar--->
+    <header class= "navigation-bar">
+        <nav>
+            <ul>
+                 <li class="pull-left"><a href="#">Enjoy two Free Samples With Any Order</a></li>
+                 <li class="right-corner"><a  href="#">LIVE CHAT</a></li>
+                 <li class="right-corner"><a  href="#">STORES</a></li>
+				 <li class="right-corner"><a  href="#">EMAIL SIGN UP</a></li>
+				 <li class="right-corner"><a  href="#">MY ACCOUNT</a></li>
+				 <li class="right-corner"><a  href="#"><i class='fas fa-shopping-bag'></i></a></li>
+            </ul>
+    </nav>
+    </header>
+<!---logo--->
+<div class="logo">
+<span class="logo-heading">BOBBI BROWN</span>
+</div>
+<!---secondary nav bar--->
+<div class= "page-nav-bar">
+        <nav>
+            <ul>
+                 <li><a  href="#">NEW</a></li>
+                 <li><a  href="#">MAKEUP</a></li>
+                 <li><a  href="#">SKIN</a></li>
+                 <li><a  href="#">BEST SELLERS</a></li>
+                 <li><a  href="#">MAKEUP LESSONS</a></li>
+	             <li><a  href="#">BOBBI</a></li>
+	             <li><a  href="#">BE WHO YOU ARE</a></li>
+                 <li><a  href="#"><i class="fa fa-search"></i></a></li>
+            </ul>
+        </nav>
+</div>
+<div class= "container1">
+<div class="main-content">
+<span class= "main-content-heading">be who you are</span>
+<p class= "main-content-description">Here at Bobbi Brown, we see <i>beauty</i>.We see <i>confidence</i>. We <i>believe</i> a woman is most<br/> 
+beautiful when she <i>looks</i> and <i>feels</i> like herself. And for <i>25years</i> we've made it our<br/>
+<i>mission</i> to show her how. The <i>secret</i> to beauty is <i>simple</i>: <b>be who you are</b>.
+</p>
+<div class= "video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LScZ3DLKly4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+</div>
+<div class="images">
+<div class="sub-content-image-row1">
+<img class="image-row1-corner" src= "C:\Users\user\Desktop\Assignment3\image_1.jpg" alt= "this is be who you are image"/>
+<img class="image-row1-sec-corner" src= "C:\Users\user\Desktop\Assignment3\image_row1_1.jpg" alt= "this is be who you are image"/>
+<img class="image-row1-third-corner" src= "C:\Users\user\Desktop\Assignment3\resizedImage.png" alt= "this is be who you are image"/>
+<img class="image-row1-fourth-corner" src= "C:\Users\user\Desktop\Assignment3\image_row1_3.jpg" alt= "this is be who you are image"/>
+<img class="image-row1-fifth-corner" src= "C:\Users\user\Desktop\Assignment3\image_row1_4.jpg" alt= "this is be who you are image"/>
+</div>
+<div class="sub-content-image-row2">
+<img class="image-row2-corner" src= "C:\Users\user\Desktop\Assignment3\image_row2_1.jpg" alt= "this is be who you are image"/>
+<img class="image-row2-corner" src= "C:\Users\user\Desktop\Assignment3\image_row2_2.jpg" alt= "this is be who you are image"/>
+<img class="image-row2-corner" src= "C:\Users\user\Desktop\Assignment3\image_row2_3.jpg" alt= "this is be who you are image"/>
+<img class="image-row2-corner" src= "C:\Users\user\Desktop\Assignment3\image_row2_4.jpg" alt= "this is be who you are image"/>
+<img class="image-row2-corner" src= "C:\Users\user\Desktop\Assignment3\image_row2_5.jpg" alt= "this is be who you are image"/>
+</div>
+<div class="sub-content-image-row3">
+<img class="image-row3-corner" src= "C:\Users\user\Desktop\Assignment3\image_row3_1.jpg" alt= "this is be who you are image"/>
+<img class="image-row3-corner" src= "C:\Users\user\Desktop\Assignment3\image_row3_2.jpg" alt= "this is be who you are image"/>
+<img class="image-row3-corner" src= "C:\Users\user\Desktop\Assignment3\image_row3_3.jpg" alt= "this is be who you are image"/>
+<img class="image-row3-corner" src= "C:\Users\user\Desktop\Assignment3\image_row3_4.jpg" alt= "this is be who you are image"/>
+<img class="image-row3-corner" src= "C:\Users\user\Desktop\Assignment3\image_row3_5.jpg" alt= "this is be who you are image"/>
+</div>
+<div class="sub-content-image-row4">
+<img class="image-row4-corner" src= "C:\Users\user\Desktop\Assignment3\image_row4_1.jpg" alt= "this is be who you are image"/>
+<img class="image-row4-corner" src= "C:\Users\user\Desktop\Assignment3\image_row4_2.jpg" alt= "this is be who you are image"/>
+<img class="image-row4-corner" src= "C:\Users\user\Desktop\Assignment3\image_row4_3.jpg" alt= "this is be who you are image"/>
+<img class="image-row4-corner" src= "C:\Users\user\Desktop\Assignment3\image_row4_4.jpg" alt= "this is be who you are image"/>
+<img class="image-row4-corner" src= "C:\Users\user\Desktop\Assignment3\image_row4_5.jpg" alt= "this is be who you are image"/>
+</div>
+<div class="sub-content-image-row5">
+<img class="image-row5-corner" src= "C:\Users\user\Desktop\Assignment3\image_row5_1.jpg" alt= "this is be who you are image"/>
+<img class="image-row5-corner" src= "C:\Users\user\Desktop\Assignment3\image_row5_2.jpg" alt= "this is be who you are image"/>
+<img class="image-row5-corner" src= "C:\Users\user\Desktop\Assignment3\image_row5_3.jpg" alt= "this is be who you are image"/>
+<img class="image-row5-corner" src= "C:\Users\user\Desktop\Assignment3\image_row5_4.jpg" alt= "this is be who you are image"/>
+<img class="image-row5-corner" src= "C:\Users\user\Desktop\Assignment3\image_row5_5.jpg" alt= "this is be who you are image"/>
+</div>
+<div class= "explore-content">
+<div class= "youtube-content">
+<img src= "C:\Users\user\Desktop\Assignment3\youtube_content.jpg" alt= "this is youtube link video"/><br/>
+<span class= "youtube-content-heading">youtube</span>
+</div>
+<div class= "pinterest-content">
+<img src= "C:\Users\user\Desktop\Assignment3\pinterest_image.jpg" alt= "this is pinterest link video"/><br/>
+<span class= "pinterest-content-heading">pinterest</span>
+</div>
+<div class= "instagram-content">
+<img src= "C:\Users\user\Desktop\Assignment3\instagram_image.jpg" alt= "this is instagram link photo"/><br/>
+<span class= "instagram-content-heading">instagram</span>
+</div>
+</div>
+</div>
+</div>
+<div>
+</body>
+</html>
